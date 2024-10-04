@@ -8,7 +8,7 @@ The dataset used in this project was retrieved from a fairly popular Kaggle data
 Placeholder
 
 ## Analysis Report
-This section is a quick summary of my findings. You can find the full code and comments in the [Analysis](https://github.com/stgordillo/spotify_2023_python_project/blob/main/ANALYSIS.py).
+This section is a quick summary of my findings. You can find the full code and comments in the [Analysis](https://github.com/stgordillo/la_crime_python/blob/main/ANALYSIS.py).
 
 ### Initial
 Placeholder
